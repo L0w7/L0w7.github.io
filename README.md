@@ -9,4 +9,4 @@ LG **Brebeuf**
 | Meal | Monday | Tuesday | Wednesday | Thursday | Friday | 
 |------|--------|---------|-----------|----------|--------|
 | Breakfast | Cereal | Egg | Sausage | Chicken | Meatloaf |
-| Lunch | Chicken | Fish Fillet | Pork | Beef | Roested Chicken |
+| Lunch | Chicken | Fish Fillet | Pork | Beef | Roasted Chicken |
